@@ -1,0 +1,39 @@
+body {
+    padding: 6px 10px;
+    width: 100vw;
+}
+.container {
+    width: 95%;
+    margin: auto auto;
+    padding: 23px 0;
+}
+.about-us {
+    width: 33%;
+    background-color: #F4CB08;
+    padding: 10px 0px 10px 8px;
+}
+.about-us h2{
+    font-size: 20px;
+}
+.contact-content{
+    font-size: 10px;
+}
+.area{
+    padding: 5px;
+}
+.area-heading, .contact-heading{
+    font-size: 13px;
+}
+.area-content{
+    font-size: 10px;
+}
+.experience {
+    width: 62%;
+    padding: 10px 0px 10px 14px;
+}
+.content{
+    font-size: 12px;
+}
+.hobby-content{
+    font-size: 13px;
+}
